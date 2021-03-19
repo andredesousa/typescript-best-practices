@@ -14,7 +14,7 @@ Most of these recommendations also apply to JavaScript.
 6. [Call things by their name](#call-things-by-their-name)
 7. [Use utility types](#use-utility-types)
 8. [Use const and let](#use-const-and-let)
-9. [Use === instead of ==](#use-===-instead-of-==)
+9. [Use === instead of ==](#use--instead-of-)
 10. [Use shortcut notation sparingly](#use-shortcut-notation-sparingly)
 11. [Avoid globals](#avoid-globals)
 12. [Avoid mixing with other technologies](#avoid-mixing-with-other-technologies)
@@ -31,7 +31,7 @@ Most of these recommendations also apply to JavaScript.
 23. [Use spread and destructuring](#use-spread-and-destructuring)
 24. [Use template literals](#use-template-literals)
 25. [End the switches with defaults](#end-the-switches-with-defaults)
-26. [Use the prefix is and has for Booleans](#use-the-prefix-is-and-has-for-booleans)
+26. [Use the prefix "is" and "has" for Booleans](#use-the-prefix-is-and-has-for-booleans)
 27. [Declarations on top](#declarations-on-top)
 28. [Initialize variables](#initialize-variables)
 29. [Use iterators and generators](#use-iterators-and-generators)
@@ -306,7 +306,7 @@ function getEmoji(key: string): string {
 }
 ```
 
-## Use the prefix is and has for Booleans
+## Use the prefix "is" and "has" for Booleans
 
 Using variables with prefixes `is` and `has` will communicate clearly that the variable is a Boolean.
 The code is read more often than it is written.

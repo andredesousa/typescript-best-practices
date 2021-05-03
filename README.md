@@ -482,3 +482,21 @@ Use web workers when we need to execute code that needs a lot of execution time.
 Web Workers help us to run scripts in background threads.
 The worker thread can perform tasks without interfering with the user interface.
 They can perform processor-intensive calculations without blocking the user interface thread.
+
+## Bibliography
+
+- [8 Best Practices for Future-Proofing Your TypeScript Code](https://medium.com/better-programming/8-best-practices-for-future-proofing-your-typescript-code-2600fb7d8063)
+- [15 JavaScript Tips: best practices to simplify your code](https://www.educative.io/blog/javascript-tips-simplify-code)
+- [19 simple JavaScript coding standards to keep your code clean](https://medium.com/javascript-in-plain-english/19-simple-javascript-coding-standards-to-keep-your-code-clean-7422d6f9bc0)
+- [45 Useful JavaScript Tips, Tricks And Best Practices](https://modernweb.com/45-javascript-tips-tricks-practices/)
+- [50 Javascript Best Practice Rules to Write Better Code](https://beforesemicolon.medium.com/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7)
+- [Clean Code TypeScript](https://github.com/labs42io/clean-code-typescript)
+- [Design Patterns](https://refactoring.guru/design-patterns)
+- [Design Patterns in TypeScript](https://github.com/torokmark/design_patterns_in_typescript)
+- [Five tips I wish I knew when I started with Typescript](https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db)
+- [JavaScript Best Practices for Beginners](https://medium.com/javascript-in-plain-english/javascript-best-practices-for-beginners-b573cbc1ec0f)
+- [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp)
+- [JavaScript best practices](https://www.w3.org/wiki/JavaScript_best_practices)
+- [TypeScript Style Guide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md)
+- [TypeScript: Do's and Don'ts](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
+- [Typescript Best Practices](https://engineering.zalando.com/posts/2019/02/typescript-best-practices.html)
